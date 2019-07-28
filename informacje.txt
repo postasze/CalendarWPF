@@ -1,0 +1,18 @@
+mocne strony:
+skalowanie rozmiaru czcionki poprzez data binding i funkcje widthToSizeConverter
+nieskonczona liczba zdarzen w kazdym dniu
+duzo data bindingu
+inwokacje, INotifyPropertyChanged, updatowanie elementów data bindnietych
+MVVM
+brak zmiazdzenia okienka
+fajny comparer
+fajne struktury danych
+jest powiekszanie okna do >3x
+niemodalne popup menu ustawiajace kalendarz poprzez klikniecie prawym przyciskiem myszy na cale okno Window w xaml
+tylko 1 popuMenu w danej chwili przy uzyciu zmiennej statycznej klasy
+
+format pliku 
+(2 cyfry na dzien)-(2 cyfry na miesiac)-(4 cyfry na rok) (2 cyfry na godzine):(2 cyfry na minute)-(2 cyfry na godzine):(2 cyfry na minute) (dowolna liczba znaków na opis zdarzenia)
+
+przykladowy zapis zdarzenia w pliku
+12-10-2017 14:15-16:00 POBO
